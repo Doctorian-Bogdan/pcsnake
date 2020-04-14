@@ -1,0 +1,14 @@
+canvas{
+    display: block;
+    margin: 0 auto;
+}
+body{
+ background: #8bc34a;
+}
+audio{
+
+}
+
+audio:focus{
+    outline: none;
+}
